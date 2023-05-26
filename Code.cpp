@@ -5,7 +5,6 @@ void swap(т& a, тн& b) {
 	т temp = a;
 	a = b;
 	b = temp;
-}
 int main() {
 	setlocale(LC_ALL, "rus");
 	int a = 12; double b = 1.46;
